@@ -1,0 +1,5 @@
+bias,effect_on_nmr,plain_language,source_page
+Single-day facility visit,Snapshot only,"Each facility was seen on a single day, which may not reflect its usual state, especially for things like medicine stocks.",9
+One region substituted,Coverage gap,"Logistics meant one region couldn't be reached, leaving one zone unrepresented; a similar region was substituted.",3
+Routine Star Rating data,Routine data,"Figures come from the SRA database on DHIS2, collected by trained assessors, so they are only as good as that routine process.",4
+Cross-sectional design,No causation,"The study shows which factors go together with quality, not that they cause it.",1

@@ -1,0 +1,121 @@
+year,facility_level,metric,value,source_page
+2015,Dispensaries,livebirths,464121,7
+2015,Dispensaries,neonatal_deaths,196,7
+2016,Dispensaries,livebirths,466376,7
+2016,Dispensaries,neonatal_deaths,273,7
+2017,Dispensaries,livebirths,511538,7
+2017,Dispensaries,neonatal_deaths,322,7
+2018,Dispensaries,livebirths,666950,7
+2018,Dispensaries,neonatal_deaths,294,7
+2019,Dispensaries,livebirths,721496,7
+2019,Dispensaries,neonatal_deaths,239,7
+2020,Dispensaries,livebirths,768017,7
+2020,Dispensaries,neonatal_deaths,252,7
+2021,Dispensaries,livebirths,717389,7
+2021,Dispensaries,neonatal_deaths,164,7
+2022,Dispensaries,livebirths,739931,7
+2022,Dispensaries,neonatal_deaths,161,7
+2023,Dispensaries,livebirths,808206,7
+2023,Dispensaries,neonatal_deaths,124,7
+2024,Dispensaries,livebirths,861567,7
+2024,Dispensaries,neonatal_deaths,129,7
+2015,Health centres,livebirths,276237,7
+2015,Health centres,neonatal_deaths,293,7
+2016,Health centres,livebirths,304277,7
+2016,Health centres,neonatal_deaths,650,7
+2017,Health centres,livebirths,362925,7
+2017,Health centres,neonatal_deaths,826,7
+2018,Health centres,livebirths,443820,7
+2018,Health centres,neonatal_deaths,854,7
+2019,Health centres,livebirths,501563,7
+2019,Health centres,neonatal_deaths,931,7
+2020,Health centres,livebirths,587008,7
+2020,Health centres,neonatal_deaths,1965,7
+2021,Health centres,livebirths,631088,7
+2021,Health centres,neonatal_deaths,1681,7
+2022,Health centres,livebirths,674417,7
+2022,Health centres,neonatal_deaths,1810,7
+2023,Health centres,livebirths,754306,7
+2023,Health centres,neonatal_deaths,1272,7
+2024,Health centres,livebirths,805529,7
+2024,Health centres,neonatal_deaths,1350,7
+2015,District hospitals,livebirths,221280,7
+2015,District hospitals,neonatal_deaths,1202,7
+2016,District hospitals,livebirths,235861,7
+2016,District hospitals,neonatal_deaths,1319,7
+2017,District hospitals,livebirths,251478,7
+2017,District hospitals,neonatal_deaths,2339,7
+2018,District hospitals,livebirths,256179,7
+2018,District hospitals,neonatal_deaths,2127,7
+2019,District hospitals,livebirths,264026,7
+2019,District hospitals,neonatal_deaths,1757,7
+2020,District hospitals,livebirths,249472,7
+2020,District hospitals,neonatal_deaths,2520,7
+2021,District hospitals,livebirths,243533,7
+2021,District hospitals,neonatal_deaths,2520,7
+2022,District hospitals,livebirths,258323,7
+2022,District hospitals,neonatal_deaths,2311,7
+2023,District hospitals,livebirths,295964,7
+2023,District hospitals,neonatal_deaths,2766,7
+2024,District hospitals,livebirths,323559,7
+2024,District hospitals,neonatal_deaths,2678,7
+2015,Regional referral hospitals,livebirths,155574,7
+2015,Regional referral hospitals,neonatal_deaths,1580,7
+2016,Regional referral hospitals,livebirths,151219,7
+2016,Regional referral hospitals,neonatal_deaths,1615,7
+2017,Regional referral hospitals,livebirths,151158,7
+2017,Regional referral hospitals,neonatal_deaths,2450,7
+2018,Regional referral hospitals,livebirths,146849,7
+2018,Regional referral hospitals,neonatal_deaths,1906,7
+2019,Regional referral hospitals,livebirths,135561,7
+2019,Regional referral hospitals,neonatal_deaths,2352,7
+2020,Regional referral hospitals,livebirths,106460,7
+2020,Regional referral hospitals,neonatal_deaths,2459,7
+2021,Regional referral hospitals,livebirths,94151,7
+2021,Regional referral hospitals,neonatal_deaths,3138,7
+2022,Regional referral hospitals,livebirths,90104,7
+2022,Regional referral hospitals,neonatal_deaths,3953,7
+2023,Regional referral hospitals,livebirths,84877,7
+2023,Regional referral hospitals,neonatal_deaths,4708,7
+2024,Regional referral hospitals,livebirths,73164,7
+2024,Regional referral hospitals,neonatal_deaths,4386,7
+2015,Tertiary hospitals,livebirths,13762,7
+2015,Tertiary hospitals,neonatal_deaths,123,7
+2016,Tertiary hospitals,livebirths,24250,7
+2016,Tertiary hospitals,neonatal_deaths,278,7
+2017,Tertiary hospitals,livebirths,27651,7
+2017,Tertiary hospitals,neonatal_deaths,446,7
+2018,Tertiary hospitals,livebirths,21588,7
+2018,Tertiary hospitals,neonatal_deaths,562,7
+2019,Tertiary hospitals,livebirths,23861,7
+2019,Tertiary hospitals,neonatal_deaths,405,7
+2020,Tertiary hospitals,livebirths,22594,7
+2020,Tertiary hospitals,neonatal_deaths,413,7
+2021,Tertiary hospitals,livebirths,21369,7
+2021,Tertiary hospitals,neonatal_deaths,853,7
+2022,Tertiary hospitals,livebirths,22288,7
+2022,Tertiary hospitals,neonatal_deaths,1003,7
+2023,Tertiary hospitals,livebirths,21183,7
+2023,Tertiary hospitals,neonatal_deaths,773,7
+2024,Tertiary hospitals,livebirths,20496,7
+2024,Tertiary hospitals,neonatal_deaths,787,7
+2015,Other hospitals,livebirths,34360,7
+2015,Other hospitals,neonatal_deaths,964,7
+2016,Other hospitals,livebirths,35312,7
+2016,Other hospitals,neonatal_deaths,1005,7
+2017,Other hospitals,livebirths,36788,7
+2017,Other hospitals,neonatal_deaths,1535,7
+2018,Other hospitals,livebirths,35839,7
+2018,Other hospitals,neonatal_deaths,1908,7
+2019,Other hospitals,livebirths,35553,7
+2019,Other hospitals,neonatal_deaths,1846,7
+2020,Other hospitals,livebirths,33855,7
+2020,Other hospitals,neonatal_deaths,2076,7
+2021,Other hospitals,livebirths,35078,7
+2021,Other hospitals,neonatal_deaths,1756,7
+2022,Other hospitals,livebirths,37431,7
+2022,Other hospitals,neonatal_deaths,2103,7
+2023,Other hospitals,livebirths,39860,7
+2023,Other hospitals,neonatal_deaths,1724,7
+2024,Other hospitals,livebirths,34830,7
+2024,Other hospitals,neonatal_deaths,1156,7

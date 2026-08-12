@@ -1,0 +1,5 @@
+bias,effect_on_nmr,plain_language,source_page
+"Hospital-based, not population-wide",Not representative,"These are deaths in 34 public hospitals, so they don’t capture women who died at home or in private facilities.",5
+Estimated denominator,Rate is approximate,"With no exact count of hospital births, the death rate uses an estimate (half of births in facilities, 40% of those in hospitals), so the ratio is indicative, not precise.",5
+Rising facility births,Inflates the trend,"More women delivering in hospitals over time means more deaths are recorded there, which partly drives the rising count.",12
+Register data quality,Possible misclassification,"Causes come from paper registers and ICD-10 forms; some deaths may be misclassified or under-recorded, especially indirect causes.",4

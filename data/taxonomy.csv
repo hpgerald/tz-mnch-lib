@@ -1,0 +1,47 @@
+layer_no,layer_id,layer_name,topic_id,topic_name,topic_order
+01,mortality-burden,Mortality & burden,maternal-mortality,Maternal mortality,1
+01,mortality-burden,Mortality & burden,neonatal-mortality,Neonatal mortality,2
+01,mortality-burden,Mortality & burden,stillbirth,Stillbirth,3
+01,mortality-burden,Mortality & burden,perinatal-mortality,Perinatal mortality,4
+01,mortality-burden,Mortality & burden,infant-mortality,Infant mortality,5
+01,mortality-burden,Mortality & burden,under-five-mortality,Under-five mortality,6
+02,causes,Causes,haemorrhage,Haemorrhage,1
+02,causes,Causes,eclampsia,Eclampsia,2
+02,causes,Causes,sepsis,Sepsis,3
+02,causes,Causes,obstructed-labour,Obstructed labour,4
+02,causes,Causes,prematurity,Prematurity,5
+02,causes,Causes,birth-asphyxia,Birth asphyxia,6
+02,causes,Causes,infections,Infections,7
+02,causes,Causes,malnutrition,Malnutrition,8
+03,determinants,Determinants,maternal-age,Maternal age,1
+03,determinants,Determinants,education,Education,2
+03,determinants,Determinants,poverty,Poverty,3
+03,determinants,Determinants,geography,Geography,4
+03,determinants,Determinants,birth-spacing,Birth spacing,5
+03,determinants,Determinants,teenage-pregnancy,Teenage pregnancy,6
+03,determinants,Determinants,nutrition,Nutrition,7
+03,determinants,Determinants,antenatal-care,Antenatal care,8
+03,determinants,Determinants,skilled-birth-attendance,Skilled birth attendance,9
+03,determinants,Determinants,postnatal-care,Postnatal care,10
+04,health-system-failures,Health-system failures,delays-in-seeking-care,Delays in seeking care,1
+04,health-system-failures,Health-system failures,delays-reaching-facilities,Delays reaching facilities,2
+04,health-system-failures,Health-system failures,referral-systems,Referral systems,3
+04,health-system-failures,Health-system failures,human-resources,Human resources,4
+04,health-system-failures,Health-system failures,equipment,Equipment,5
+04,health-system-failures,Health-system failures,quality-of-care,Quality of care,6
+04,health-system-failures,Health-system failures,mdsr,MDSR,7
+04,health-system-failures,Health-system failures,hmis-data-quality,HMIS/data quality,8
+05,interventions,Interventions,emergency-obstetric-care,Emergency obstetric care,1
+05,interventions,Interventions,neonatal-resuscitation,Neonatal resuscitation,2
+05,interventions,Interventions,simulation-training,Simulation training,3
+05,interventions,Interventions,kangaroo-mother-care,Kangaroo mother care,4
+05,interventions,Interventions,antenatal-interventions,Antenatal interventions,5
+05,interventions,Interventions,community-interventions,Community interventions,6
+05,interventions,Interventions,safer-births-bundle-of-care,Safer Births Bundle of Care,7
+06,economics-policy,Economics & policy,cost-effectiveness,Cost-effectiveness,1
+06,economics-policy,Economics & policy,financing,Financing,2
+06,economics-policy,Economics & policy,health-system-investment,Health-system investment,3
+06,economics-policy,Economics & policy,geographic-prioritization,Geographic prioritization,4
+06,economics-policy,Economics & policy,equity,Equity,5
+06,economics-policy,Economics & policy,sdg-3,SDG 3,6
+06,economics-policy,Economics & policy,tanzania-s-national-mnh-strategies,Tanzania's national MNH strategies,7

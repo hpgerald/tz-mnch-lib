@@ -1,0 +1,7 @@
+bias,effect_on_nmr,plain_language,source_page
+"Blank entries treated as missing, not zero",Underestimation,"DHIS2 can't tell ""no data reported"" from ""zero deaths"": both show up blank, so real reporting gaps end up hiding deaths.",15
+Home births excluded (~20%),Underestimation,About 1 in 5 births happen at home; their outcomes never enter facility data.,8
+Dual systems in tertiary hospitals,Underestimation,"Tertiary hospitals often use both DHIS2 and their own electronic records, so deaths logged locally may not reach DHIS2.",14
+Private / faith-based hospitals not fully integrated,Underestimation,These hospitals report 11-25% of deaths but are not fully connected to the national system.,14
+Denominator mismatch (live births vs admitted babies),Variable,Death rates can shift depending on whether the denominator counts all live births or only admitted newborns.,6
+"Only aggregate, not individual-level data",Reduced precision,"Without patient-level records, the smallest and sickest babies are hardest to track accurately.",16

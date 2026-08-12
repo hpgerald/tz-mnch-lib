@@ -1,0 +1,8 @@
+hospital,level,dhis2_vs_nid,plain_language,source_page
+RRH1,RRH,Higher,DHIS2 reported a higher newborn death rate than the detailed NID database (ratio above 1) across the years.,8
+RRH16,RRH,Higher,DHIS2 reported a higher rate than NID (ratio above 1).,8
+RRH27,RRH,Higher,DHIS2 reported a higher rate than NID (ratio above 1).,8
+Tertiary3,Tertiary,Similar,"DHIS2 and NID reported similar rates, especially in the later years (2023 and 2024).",8
+Tertiary4,Tertiary,,One of the seven NEST360 hospitals compared; main text does not state a direction (detail in Fig 4 only).,6
+Tertiary5,Tertiary,,One of the seven NEST360 hospitals compared; main text does not state a direction (detail in Fig 4 only).,6
+Tertiary7,Tertiary,,One of the seven NEST360 hospitals compared; main text does not state a direction (detail in Fig 4 only).,6
