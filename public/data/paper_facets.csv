@@ -7,3 +7,6 @@ paper_id,facet,value_id
 02,population,facility-based-patients
 03,location,national-multi-region
 03,population,pregnant-women-and-mothers
+04,location,central
+04,population,pregnant-women-and-mothers
+04,population,newborns
