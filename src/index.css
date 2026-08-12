@@ -1,0 +1,4 @@
+/* App-level overrides only. Tokens live in styles/tokens.css,
+   components in styles/components.css. */
+#root { min-height: 100vh; display: flex; flex-direction: column; }
+#root > .footer { margin-top: auto; }

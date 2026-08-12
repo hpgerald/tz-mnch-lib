@@ -1,0 +1,16 @@
+facet,value_id,value_name
+location,national-multi-region,National (multi-region)
+location,central,Central
+location,coastal,Coastal
+location,lake,Lake
+location,northern,Northern
+location,southern,Southern
+location,southern-highlands,Southern Highlands
+location,western,Western
+population,pregnant-women-and-mothers,Pregnant women & mothers
+population,newborns,Newborns
+population,infants,Infants
+population,under-fives,Under-fives
+population,adolescents,Adolescents
+population,rural-communities,Rural communities
+population,facility-based-patients,Facility-based patients

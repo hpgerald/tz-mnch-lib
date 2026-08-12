@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/papers</loc><priority>0.8</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/map</loc><priority>0.8</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/maternal-mortality</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/neonatal-perinatal</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/child-mortality</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/quality-systems</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/interventions</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/layer/crosscutting</loc><priority>0.7</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/missing-babies</loc><priority>0.6</priority></url>
+  <url><loc>https://hpgerald.github.io/tz-mnch-lib/#/mch-star-rating</loc><priority>0.6</priority></url>
+</urlset>

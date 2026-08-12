@@ -1,0 +1,14 @@
+term,definition,source_page
+NMR (Neonatal Mortality Rate),"The number of babies who die in their first 28 days of life, per 1,000 live births.",2
+DHIS2,District Health Information Software 2: the open-source system Tanzania uses to collect and report routine health data from hospitals.,3
+NID,"NEST360 Neonatal Inpatient Database: a detailed, patient-level record of newborn care used here as a cross-check.",5
+RRH,Regional Referral Hospital: a secondary-level hospital serving a region; there are 28 in this study.,4
+Tertiary hospital,A zonal or national hospital offering the most advanced care and teaching; there are 7 in this study.,4
+Completeness,"Whether a hospital actually filed its reports: here, the share of months a facility reported newborn deaths.",5
+Internal consistency,"Whether a hospital's numbers stay stable and believable year to year, within WHO's plus-or-minus 33% band.",5
+Plausibility,Whether routine numbers match trusted outside sources like national surveys or UN estimates.,5
+SDG 3.2,"The UN Sustainable Development Goal target to cut newborn deaths to under 12 per 1,000 live births by 2030.",2
+UN-IGME,UN Inter-agency Group for Child Mortality Estimation: produces internationally comparable child-death estimates.,5
+DHS,Demographic and Health Survey: a large national household survey used to estimate death rates.,2
+Live birth,"A baby born showing signs of life, used as the denominator for the death rate.",6
+Home births,"Births that happen outside a health facility: about 20% in Tanzania, whose outcomes routine facility data can miss.",8

@@ -1,0 +1,9 @@
+paper_id,facet,value_id
+01,location,national-multi-region
+01,population,newborns
+02,location,national-multi-region
+02,population,pregnant-women-and-mothers
+02,population,newborns
+02,population,facility-based-patients
+03,location,national-multi-region
+03,population,pregnant-women-and-mothers

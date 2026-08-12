@@ -1,0 +1,70 @@
+/* ============================================================================
+   TOKENS — monochrome editorial system (Pentagram-influenced)
+   Meaning comes from type, scale, rules and whitespace. NEVER from colour.
+   Palette is strictly black + white + a grey ramp. No accent hue anywhere.
+   ========================================================================== */
+
+:root {
+  /* --- Monochrome palette (the ONLY colours in the system) --- */
+  --ink: #111111;         /* near-black — primary text, inverted fills */
+  --paper: #ffffff;       /* white — page ground */
+  --grey-95: #f4f4f4;     /* faint fills */
+  --grey-88: #e0e0e0;     /* hairline rules on white */
+  --grey-70: #b3b3b3;     /* disabled / decorative */
+  --grey-55: #8c8c8c;     /* secondary text on paper */
+  --grey-40: #666666;     /* muted labels */
+  --grey-22: #383838;     /* deep grey */
+
+  /* Semantic aliases (still monochrome) */
+  --text: var(--ink);
+  --text-muted: var(--grey-40);
+  --bg: var(--paper);
+  --rule: var(--grey-88);
+  --rule-strong: var(--ink);
+
+  /* --- Type: neo-grotesque stack --- */
+  --font-sans: "Helvetica Neue", Helvetica, Arial, "Inter", system-ui, sans-serif;
+  --font-mono: "SFMono-Regular", ui-monospace, Menlo, Consolas, monospace;
+
+  /* Fluid type scale (min .. max via clamp, viewport-fluid) */
+  --step--1: clamp(0.78rem, 0.75rem + 0.15vw, 0.86rem);
+  --step-0:  clamp(0.95rem, 0.90rem + 0.25vw, 1.05rem);
+  --step-1:  clamp(1.15rem, 1.05rem + 0.55vw, 1.45rem);
+  --step-2:  clamp(1.45rem, 1.25rem + 1.05vw, 2.10rem);
+  --step-3:  clamp(1.90rem, 1.50rem + 2.10vw, 3.20rem);
+  --step-4:  clamp(2.45rem, 1.70rem + 3.90vw, 4.75rem);
+  --step-5:  clamp(3.10rem, 1.90rem + 6.40vw, 7.00rem);
+
+  --leading-tight: 1.02;
+  --leading-snug: 1.15;
+  --leading-body: 1.55;
+  --tracking-tight: -0.02em;
+  --tracking-wide: 0.12em;
+
+  /* --- Spacing scale (generous whitespace) --- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --space-9: 7rem;
+
+  /* --- Structure --- */
+  --measure: 66ch;                 /* readable prose width */
+  --container: 78rem;              /* max page width */
+  --rule-weight: 1px;
+  --rule-weight-strong: 2px;
+  --focus-ring: 3px;
+
+  /* --- Motion (respected + reducible) --- */
+  --dur: 140ms;
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur: 0ms; }
+  * { animation: none !important; scroll-behavior: auto !important; }
+}
